@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29691384055",
+    "project_id": "mynotes-prokopev",
+    "storage_bucket": "mynotes-prokopev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29691384055:android:fedf5f8a0274135a91c3f2",
+        "android_client_info": {
+          "package_name": "com.makingapplications.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29691384055-a7sn7g4pf1hss4vg3valau4ujjeghi2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dWPbnnpO1jF6lBdZKjaSMd4LKOn0-_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29691384055-a7sn7g4pf1hss4vg3valau4ujjeghi2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
